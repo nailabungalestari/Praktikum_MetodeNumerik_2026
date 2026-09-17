@@ -1,0 +1,3 @@
+function sapa(param)
+    fprintf('Nama saya %s!\n', param)
+end
